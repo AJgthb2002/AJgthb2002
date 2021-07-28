@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Joshi</h1>
-<img align="right" src="https://user-images.githubusercontent.com/73184612/127293833-5539a271-6b2f-4270-aa10-f9720e34cb9d.jpg" height=300 width=500>
+<img align="right" src="https://user-images.githubusercontent.com/73184612/127293833-5539a271-6b2f-4270-aa10-f9720e34cb9d.jpg" height=300 width=450>
 <img align="left" src="https://komarev.com/ghpvc/?username=AJgthb2002&label=Profile%20views&color=129e00&style=plastic" alt="AJgthb2002" /> 
 </br>
 </br>
