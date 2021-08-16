@@ -4,13 +4,14 @@
 </br>
 </br>
 
-- 👩‍🎓 Pursuing my Bachelors in Computer Engineering
+- 👩‍🎓 Pursuing my Bachelors in **Computer Engineering**
+- 👩‍💼 Incoming summer intern at **Microsoft**
 - ✨ You can also check out my portfolio <a href="https://ajgthb2002.github.io/portfolio/"> here </a>
 
 ### My Achievements
-- Selected in Microsoft Engage 2021 Mentorship program
-- Selected in LinkedIn Coachin 2021 Mentorship program
-- Selected as an open source contributor in Girlscript winter of contributing (GWOC) and Girlscript Summer of Code (GSSoC) 2021
+- Selected in **Microsoft Engage 2021** Mentorship program
+- Selected in **LinkedIn Coachin 2021** Mentorship program
+- Selected as an open source contributor in **Girlscript winter of contributing (GWOC)** and **Girlscript Summer of Code (GSSoC) 2021**
 
 </br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJgthb2002&show_icons=true&locale=en&layout=compact" alt="AJgthb2002" />
