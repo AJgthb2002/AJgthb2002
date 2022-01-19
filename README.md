@@ -9,12 +9,16 @@
 - ✨ You can also check out my portfolio <a href="https://ajgthb2002.github.io/portfolio/"> here </a>
 
 ### My Achievements
+- Selected as **GDC Engineering Fellow 2022**, by AICTE
 - Selected in **Microsoft Engage 2021** Mentorship program
 - Selected in **LinkedIn Coachin 2021** Mentorship program
-- Selected as an open source contributor in **Girlscript winter of contributing (GWOC)** and **Girlscript Summer of Code (GSSoC) 2021**
+- Contributed to open-source through **Hacktoberfest 2021**, **Girlscript winter of contributing (GWOC)** and **Girlscript Summer of Code (GSSoC) 2021**
 
 </br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJgthb2002&show_icons=true&locale=en&layout=compact" alt="AJgthb2002" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJgthb2002&show_icons=true&locale=en&layout=compact&theme=react" alt="AJgthb2002" />
+
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJgthb2002&show_icons=true&hide=stars,issues&theme=tokyonight)
+
 <!--
 **AJgthb2002/AJgthb2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
