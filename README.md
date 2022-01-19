@@ -17,7 +17,7 @@
 </br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJgthb2002&show_icons=true&locale=en&layout=compact&theme=react" alt="AJgthb2002" />
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJgthb2002&show_icons=true&hide=stars,issues&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AJgthb2002&show_icons=true&hide=stars,issues&theme=tokyonight" width="430px"  />
 
 <!--
 **AJgthb2002/AJgthb2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
