@@ -7,7 +7,7 @@
 </br>
 </br>
 
-- 👩‍🎓 Pursuing my Bachelors in **Computer Engineering**
+- 👩‍🎓 Pursuing my Bachelors in Technology ( **Computer Engineering**)
 - 👩‍💼 Incoming summer intern at **Microsoft**
 - ✨ You can also check out my portfolio <a href="https://ajgthb2002.github.io/portfolio/"> here </a>
 
