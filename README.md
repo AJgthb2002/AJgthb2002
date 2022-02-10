@@ -12,9 +12,10 @@
 - ✨ You can also check out my portfolio <a href="https://ajgthb2002.github.io/portfolio/"> here </a>
 
 ### My Achievements
-- Selected as **GDC Engineering Fellow 2022**, by AICTE
+- Selected in **MLH Fellowship Prep program** (Winter 2022)
+- **GDC Engineering Fellow 2022**, selected by AICTE <br /> (Among top 40 selected from 48,385)
 - Selected in **Microsoft Engage 2021** Mentorship program
-- Selected in **LinkedIn Coachin 2021** Mentorship program
+- Selected in **LinkedIn Coachin 2021** Mentorship program (Among top 40 candidates selected nationally)
 - Contributed to open-source through **Hacktoberfest 2021**, **Girlscript winter of contributing (GWOC)** and **Girlscript Summer of Code (GSSoC) 2021**
 
 </br>
