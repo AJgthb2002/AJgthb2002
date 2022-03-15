@@ -16,7 +16,7 @@
 - **GDC Engineering Fellow 2022**, selected by AICTE <br /> (Among top 40 selected from 48,385)
 - Selected in **Microsoft Engage 2021** Mentorship program
 - Selected in **LinkedIn Coachin 2021** Mentorship program (Among top 40 candidates selected nationally)
-- Contributed to open-source through **Hacktoberfest 2021**, **Girlscript winter of contributing (GWOC)** and **Girlscript Summer of Code (GSSoC) 2021**
+- Contributed to open-source through  **Girlscript Summer of Code (GSSoC) 2022**, **Hacktoberfest 2021** and **Girlscript winter of contributing (GWOC)**
 
 </br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJgthb2002&show_icons=true&locale=en&layout=compact&theme=react" alt="AJgthb2002" />
