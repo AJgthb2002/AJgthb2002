@@ -8,8 +8,8 @@
 </br>
 
 - 👩‍🎓 Pursuing my Bachelors in Technology ( **Computer Engineering**)
-- 👩‍💼 Incoming summer intern at **Microsoft**
-- ✨ You can also check out my portfolio <a href="https://ajgthb2002.github.io/portfolio/"> here </a>
+- 👩‍💼 Ex- summer intern at **Microsoft**
+- ✨ You can also check out my blog <a href="https://ananyajoshi20.medium.com/"> here </a>
 
 ### My Achievements
 - **MLH Prep Fellow** (March 2022)
